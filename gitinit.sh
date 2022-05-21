@@ -1,5 +1,7 @@
 git init
-git add -A 
-git commit -m "first commit"
+git status
+git add -A
+git status
+git commit -m "irst commit"
 git remote add origin git@github.com:sakalasabareesh/gitpython.git
 git push origin master
